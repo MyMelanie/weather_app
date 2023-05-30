@@ -19,7 +19,7 @@ body{
     width: 400px;
     height: 105px;
     background-color: #fff;
-    padding: 28px 32px;
+    padding: 25px 32px;
     overflow: hidden;
     border-radius: 18px;
     font-family: 'Roboto', sans-serif;
@@ -32,6 +32,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: space-between;
+
 }
 
 .search-box input{
